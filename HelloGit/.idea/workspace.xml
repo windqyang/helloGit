@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d19e4fc9-2d83-4e54-9d69-05e047be6e1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloGit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/git/HelloGit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/git/HelloGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/git/HelloGit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,18 +96,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610714496473</updated>
-      <workItem from="1610714511160" duration="967000" />
+      <workItem from="1610714511160" duration="1234000" />
     </task>
+    <task id="LOCAL-00001" summary="添加文件">
+      <created>1610715667567</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610715667567</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="条件文件" />
+    <MESSAGE value="添加文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加文件" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="343" y="58" key="CommitChangelistDialog2" timestamp="1610715654707">
+    <state x="343" y="58" key="CommitChangelistDialog2" timestamp="1610715666814">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="343" y="58" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1610715654707" />
+    <state x="343" y="58" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1610715666814" />
     <state x="501" y="205" key="FileChooserDialogImpl" timestamp="1610714635038">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
