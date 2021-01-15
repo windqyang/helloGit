@@ -17,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IgnoredFileRootStore">
@@ -96,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610714496473</updated>
-      <workItem from="1610714511160" duration="1234000" />
+      <workItem from="1610714511160" duration="1664000" />
     </task>
     <task id="LOCAL-00001" summary="添加文件">
       <created>1610715667567</created>
@@ -105,16 +110,48 @@
       <option name="project" value="LOCAL" />
       <updated>1610715667567</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="更新一">
+      <created>1610715771543</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610715771543</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更新一">
+      <created>1610715794845</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610715794845</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更新一">
+      <created>1610715825377</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610715825377</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="条件文件" />
     <MESSAGE value="添加文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加文件" />
+    <MESSAGE value="更新一" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新一" />
   </component>
   <component name="WindowStateProjectService">
     <state x="343" y="58" key="CommitChangelistDialog2" timestamp="1610715666814">
