@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d19e4fc9-2d83-4e54-9d69-05e047be6e1a" name="Default Changelist" comment="">
+    <list default="true" id="d19e4fc9-2d83-4e54-9d69-05e047be6e1a" name="Default Changelist" comment="主干添加">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/git/HelloGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/git/HelloGit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +60,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager">
     <configuration name="HelloGit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -75,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloGit" />
         <item itemvalue="Application.HelloGit" />
       </list>
     </recent_temporary>
@@ -102,6 +109,10 @@
       <option name="presentableId" value="Default" />
       <updated>1610714496473</updated>
       <workItem from="1610714511160" duration="1664000" />
+      <workItem from="1610717210123" duration="198000" />
+      <workItem from="1610717469740" duration="602000" />
+      <workItem from="1610718089032" duration="30000" />
+      <workItem from="1610757314253" duration="318000" />
     </task>
     <task id="LOCAL-00001" summary="添加文件">
       <created>1610715667567</created>
@@ -147,28 +158,74 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="条件文件" />
     <MESSAGE value="添加文件" />
     <MESSAGE value="更新一" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新一" />
+    <MESSAGE value="主干添加" />
+    <option name="LAST_COMMIT_MESSAGE" value="主干添加" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="343" y="58" key="CommitChangelistDialog2" timestamp="1610715666814">
+    <state x="572" y="353" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1610757378153">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="343" y="58" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1610715666814" />
-    <state x="501" y="205" key="FileChooserDialogImpl" timestamp="1610714635038">
+    <state x="572" y="353" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.920@0.0.1440.920" timestamp="1610757378153" />
+    <state x="301" y="119" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1610757372769">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="501" y="205" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1610714635038" />
+    <state x="301" y="119" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1440.920@0.0.1440.920" timestamp="1610757372769" />
+    <state x="343" y="58" key="CommitChangelistDialog2" timestamp="1610757644136">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="343" y="58" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1610757644136" />
+    <state x="501" y="205" key="FileChooserDialogImpl" timestamp="1610716757400">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="205" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1610716757400" />
+    <state width="1397" height="235" key="GridCell.Tab.0.bottom" timestamp="1610757644153">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="235" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1610757644153" />
+    <state width="1397" height="235" key="GridCell.Tab.0.center" timestamp="1610757644153">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="235" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1610757644153" />
+    <state width="1397" height="235" key="GridCell.Tab.0.left" timestamp="1610757644153">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="235" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1610757644153" />
+    <state width="1397" height="235" key="GridCell.Tab.0.right" timestamp="1610757644153">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="235" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1610757644153" />
     <state x="493" y="174" key="RollbackChangesDialog" timestamp="1610715462393">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="493" y="174" key="RollbackChangesDialog/0.0.1440.920@0.0.1440.920" timestamp="1610715462393" />
-    <state x="224" y="106" key="SettingsEditor" timestamp="1610715587420">
+    <state x="224" y="77" key="SettingsEditor" timestamp="1610757350775">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="224" y="106" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1610715587420" />
+    <state x="224" y="77" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1610757350775" />
+    <state x="515" y="263" key="git4idea.merge.GitMergeDialog" timestamp="1610716329261">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="515" y="263" key="git4idea.merge.GitMergeDialog/0.0.1440.920@0.0.1440.920" timestamp="1610716329261" />
+    <state x="108" y="166" key="new project wizard" timestamp="1610718116368">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="108" y="166" key="new project wizard/0.0.1440.920@0.0.1440.920" timestamp="1610718116368" />
   </component>
 </project>
